@@ -2,10 +2,10 @@
 
 Matlab source code for the paper:
 
-R. Donida Labati, A. Genovese, E. Muñoz, V. Piuri, and F. Scotti, 
-"3-D granulometry using image processing", 
-IEEE Transactions on Industrial Informatics, vol. 15, no. 3, March, 2019, 
-pp. 1251-1264. ISSN: 1551-3203.
+	R. Donida Labati, A. Genovese, E. Muñoz, V. Piuri, and F. Scotti, 
+	"3-D granulometry using image processing", 
+	IEEE Transactions on Industrial Informatics, vol. 15, no. 3, March, 2019, 
+	pp. 1251-1264. ISSN: 1551-3203.
 https://ieeexplore.ieee.org/document/8411142
 	
 Project page:
