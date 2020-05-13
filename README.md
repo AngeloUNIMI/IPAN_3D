@@ -12,8 +12,8 @@ Project page:
 
 	http://iebil.di.unimi.it/projects/ipan
     
-Outline:
-<img src="https://homes.di.unimi.it/genovese/graphics/ipan3d1.jpg" width="300">
+<img src="https://homes.di.unimi.it/genovese/graphics/ipan3d1.jpg" width="500">
+<img src="https://homes.di.unimi.it/genovese/graphics/ipan3d2.jpg" width="500">
 
 Citation:
 
