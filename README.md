@@ -1,4 +1,4 @@
-# PalmNet
+# IPAN 3D
 
 Matlab source code for the paper:
 
