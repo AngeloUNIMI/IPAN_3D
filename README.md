@@ -10,7 +10,7 @@ Matlab source code for the paper:
 	
 Project page:
 
-	http://iebil.di.unimi.it/projects/ipan
+http://iebil.di.unimi.it/projects/ipan
     
 <img src="https://homes.di.unimi.it/genovese/graphics/ipan3d1.jpg" width="500">
 <img src="https://homes.di.unimi.it/genovese/graphics/ipan3d2.jpg" width="500">
