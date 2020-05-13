@@ -1,0 +1,24 @@
+Periodo di analisi minuto-per-minuto (in giorni):
+3
+Periodo di analisi storico ora-per-ora (in giorni):
+30
+Exposure:
+0.01
+Gain:
+0
+Numero immagini burst
+10
+Valore desiderato asse maggiore:
+120
+Valore desiderato asse minore:
+20
+Margine di tolleranza asse maggiore:
+10
+Margine di tolleranza asse minore:
+5
+Valore desiderato thickness
+0.5
+Margine di tolleranza thickness
+0.2
+Tempo da aspettare tra le acquisizioni (s)
+0

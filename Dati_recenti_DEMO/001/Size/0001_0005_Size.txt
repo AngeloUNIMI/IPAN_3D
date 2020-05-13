@@ -1,0 +1,4 @@
+Mean Major Axis:
+119.635027
+Mean Minor Axis:
+19.801028

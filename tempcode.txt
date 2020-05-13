@@ -1,0 +1,17 @@
+
+
+
+start(vid{1}); start(vid{2});
+
+
+src{1}.TriggerSoftwareTrigger = 'Ready';
+
+
+while vid{1}.FramesAvailable == 0 || vid{2}.FramesAvailable == 0
+   pause(0.2)
+end
+
+a = getdata(vid{1}); b=getdata(vid{2});
+
+%imwrite(a, 'a.jpg'); imwrite(b, 'b.jpg');
+figure,imshow(a), figure, imshow(b)
