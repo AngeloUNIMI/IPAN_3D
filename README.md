@@ -53,8 +53,8 @@ The pipeline combines stereo captures and calibration information to estimate pa
 
 <div align="center">
 
-<img src="https://homes.di.unimi.it/genovese/graphics/ipan3d1.jpg" alt="IPAN 3D example 1" width="48%" />
-<img src="https://homes.di.unimi.it/genovese/graphics/ipan3d2.jpg" alt="IPAN 3D example 2" width="48%" />
+<img src="ipan3d1.jpg" alt="IPAN 3D example 1" width="48%" />
+<img src="ipan3d2.jpg" alt="IPAN 3D example 2" width="48%" />
 
 </div>
 
@@ -158,8 +158,6 @@ Granulo-10k provides a modern benchmark with:
 - ground-truth height, width, and thickness measurements
 
 <div align="center">
-
-<img src="https://github.com/AngeloUNIMI/Granulo-10k/raw/main/figures/example.png" alt="Granulo-10k example" width="80%" />
 
 <br><br>
 
