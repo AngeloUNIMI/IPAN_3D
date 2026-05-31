@@ -159,8 +159,6 @@ Granulo-10k provides a modern benchmark with:
 
 <div align="center">
 
-<br><br>
-
 <img src="https://github.com/AngeloUNIMI/Granulo-10k/raw/main/figures/fig2_dataset_examples.png" alt="Granulo-10k examples with images, masks, and point clouds" width="95%" />
 
 </div>
