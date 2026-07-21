@@ -7,7 +7,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-97%25-orange?logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20TII-00629B)](https://ieeexplore.ieee.org/document/8411142)
-[![Project Page](https://img.shields.io/badge/Project-IPAN%203D-green)]([http://iebil.di.unimi.it/projects/ipan](https://iebil.di.unimi.it/index.php?page=project&id=5))
+[![Project Page](https://img.shields.io/badge/Project-IPAN%203D-green)]([[http://iebil.di.unimi.it/projects/ipan](https://iebil.di.unimi.it/index.php?page=project&id=5)](https://iebil.di.unimi.it/index.php?page=project&id=5))
 [![Related Dataset](https://img.shields.io/badge/Related-Granulo--10k-purple)](https://github.com/AngeloUNIMI/Granulo-10k)
 
 **MATLAB source code for the IEEE Transactions on Industrial Informatics paper**  
@@ -184,7 +184,7 @@ If you use this repository, please cite:
 ```
 
 Paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/8411142)  
-Project page: [IPAN 3D Project]([http://iebil.di.unimi.it/projects/ipan](https://iebil.di.unimi.it/index.php?page=project&id=5))
+Project page: [IPAN 3D Project](https://iebil.di.unimi.it/index.php?page=project&id=5)
 
 ---
 
